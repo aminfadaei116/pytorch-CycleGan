@@ -9,7 +9,7 @@ This repository is for the reproduction challenge for EECS6322 - Neural Networks
 
 
 ## Citation
-If you use this code for your research, please cite our [paper](https://junyanz.github.io/CycleGAN/):
+If you use this code for your research, please cite the original [paper](https://junyanz.github.io/CycleGAN/):
 
 ```
 @inproceedings{CycleGAN2017,
