@@ -7,6 +7,12 @@ This repository is for the reproduction challenge for EECS6322 - Neural Networks
 
 
 
+## Colab Notebook
+
+PyTorch First Colab notebook: [CycleGAN](https://colab.research.google.com/drive/1P4HxMEtmO08nWqXofCyWd2kk7_cc8Am0?usp=sharing)
+PyTorch Second Colab notebook: [CycleGAN](https://drive.google.com/file/d/1tJpII_aLQtBDqs4eBCzcpyEzH_Xc77db/view?usp=sharing)
+
+
 
 ## Citation
 If you use this code for your research, please cite the original [paper](https://junyanz.github.io/CycleGAN/):
